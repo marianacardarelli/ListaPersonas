@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListaPersonas</string>
+    <string name="foto_de_la_persona">Foto de la persona</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripci_n">Descripción</string>
+</resources>
